@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandabiscaia
 - 👀 I’m interested in Quality Assurance Engineer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, cypress, Postman Api, CI/CD ...
 
 
 
